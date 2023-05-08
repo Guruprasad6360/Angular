@@ -1,2 +1,2 @@
 FROM nginx
-COPY dist/myapp/ /usr/share/nginx/html/
+COPY dist/mysapp/ /usr/share/nginx/html/
